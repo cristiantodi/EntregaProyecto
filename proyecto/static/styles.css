@@ -1,0 +1,20 @@
+tr:nth-child(even) td {
+    background-color: #f2f2f2; 
+}
+tr:nth-child(odd) td {
+    background-color: #ffffff; 
+}
+
+th{
+    background: rgb(68, 68, 68) !important;
+    color: white !important;
+}
+td{
+    border: 1px solid rgb(105, 105, 105);
+}
+
+.tittle{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
